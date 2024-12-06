@@ -1,0 +1,21 @@
+@media (min-width: 448px) and (max-width: 1023px) {
+    body {
+        grid-template-rows: 10dvh 295dvh 10dvh;
+    }
+    p {
+        font-size: 4dvw;
+    }
+    p.socialmedia {
+        font-size: 2.5dvw;
+    }
+    h1, a {
+        font-size: 4.5dvw;
+    }
+    div.top-content {
+        height: 170dvh;
+    }
+    div.bot-content {
+        height: 115dvh;
+        gap: 5%;
+    }
+}

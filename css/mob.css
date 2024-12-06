@@ -1,0 +1,40 @@
+@media (max-width: 448px) and (max-aspect-ratio: 0.5) {
+    body {
+        grid-template-rows: 10dvh 205dvh 10dvh;
+    }
+    p {
+        font-size: 5dvw;
+    }
+    p.socialmedia {
+        font-size: 3dvw;
+    }
+    h1, a {
+        font-size: 6dvw;
+    }
+    div.top-content {
+        height: 115dvh;
+    }
+    div.bot-content {
+        height: 85dvh;
+    }
+}
+@media (max-width: 448px) and (min-aspect-ratio: 0.5) {
+    body {
+        grid-template-rows: 10dvh 255dvh 10dvh;
+    }
+    p {
+        font-size: 5dvw;
+    }
+    p.socialmedia {
+        font-size: 3dvw;
+    }
+    h1, a {
+        font-size: 6dvw;
+    }
+    div.top-content {
+        height: 145dvh;
+    }
+    div.bot-content {
+        height: 105dvh;
+    }
+}

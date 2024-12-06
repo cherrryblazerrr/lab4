@@ -1,0 +1,82 @@
+@media (min-width: 1024px) {
+    body {
+        grid-template-rows: 10dvh 80dvh 10dvh;
+    }
+    img.cup1 {
+        width: 16dvw;
+        height: 34dvh;
+        position: absolute;
+        right: 39dvw;
+        top: 12dvh;
+        z-index: 2;
+        border: 0.25dvw #596E79 solid;
+        box-shadow: 0.25dvw 0.25dvw 0.35dvw #596E79AA;
+    }
+    img.cup2 {
+        width: 20.5dvw;
+        height: 44dvh;
+        position: relative;
+        z-index: 3;
+        box-shadow: 0.35dvw 0.35dvw 0.5dvw #596E79AA;
+    }
+    img.pottery {
+        width: 22dvw;
+        height: 32.5dvh;
+        z-index: 1;
+    }
+    main {
+        width: 60%;
+        height: 90%;
+    }
+    div.top-left-content p {
+        margin-top: 5%;
+    }
+    div.top-content {
+        height: 55%;
+    }
+    div.bot-content {
+        height: 45%;
+    }
+    div.content {
+        flex-flow: row nowrap;
+    }
+    div.corner-content {
+        width: 50%;
+    }
+    div.top-left-content {
+        align-items: flex-start;
+        justify-content: flex-start;
+    }
+    div.top-right-content {
+        justify-content: center;
+        align-items: center;
+    }
+    div.bot-left-content {
+        justify-content: flex-end;
+        align-items: flex-end;
+    }
+    a {
+        margin-top: 5%;
+    }
+    img.socialmedia {
+        height: 5dvh;
+    }
+    header > div > img {
+        height: 7.5dvh;
+    }
+    p {
+        font-size: 1dvw;
+    }
+    h1, a {
+        font-size: 1.3dvw;
+    }
+    header > div, footer > div {
+        width: 45%;
+    }
+    div.content > p {
+        width: 65%;
+    }
+    article.content * {
+        width: 65%;
+    }
+}
