@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1402a23d-b1a6-42d7-84c6-43e81537199d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lab4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jug-svgrepo-com.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu-svgrepo-com.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photo_2024-12-04_22-06-40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photo_2024-12-04_22-07-39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photo_2024-12-04_22-08-12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photo_2024-12-05_11-17-54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sticker-png-asset-icon-black-icon-line-icon-social-icon-whatsapp-icon-circle-symbol-brass-metal-beige-transformed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/transparent-interface-button-icon-instagram-icon-5da6518eb58703.3076930815711809427435-transformed.png" beforeDir="false" />
+    <list default="true" id="1402a23d-b1a6-42d7-84c6-43e81537199d" name="Changes" comment="1">
+      <change beforePath="$PROJECT_DIR$/css/desktop.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/desktop.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,11 +64,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733488430411</updated>
-      <workItem from="1733488431513" duration="888000" />
+      <workItem from="1733488431513" duration="5171000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1733489370443</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733489370443</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
